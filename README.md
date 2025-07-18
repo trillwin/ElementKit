@@ -8,4 +8,4 @@ Download paint.net At: https://www.getpaint.net/download.html
 Download the image from the file list "Template.png" and open it in paint.net
 
 # Step 3. add Template.png and your Element icon to it
-Add the Atomic Symbol, Number and Name in Arial font
+Change the color to Grey, then add the Atomic Symbol, Number and Name in Arial font
